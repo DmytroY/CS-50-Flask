@@ -1,5 +1,6 @@
 # CS-50-Flask
 Stock market traiding simulator.
+Used: Python(Flask), SQLite, html, CSS, jinja.
 
 Tocken prices gathered from iexcloud.io/cloud API.
 Before start your API key is need to be registered in order to be able to query IEX’s data. To do so, follow these steps:
